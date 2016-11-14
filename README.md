@@ -1,3 +1,5 @@
+![alt tag](http://www.dialogic.com/static/images/dialogic-logo-2016-280.gif)
+
 XMSRestTest2
 ================
 This is a simple "Hello world" type application to showcase the use of the XMS Rest Interface.  
